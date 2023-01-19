@@ -1,0 +1,3 @@
+"ip":"devildimension.aternos.me",
+"port":"41259",
+"name":"pro_shot"
